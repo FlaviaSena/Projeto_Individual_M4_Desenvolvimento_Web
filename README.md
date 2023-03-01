@@ -1,10 +1,11 @@
 # Projeto_Individual_M4_Desenvolvimento_Web
 
-⇨ Existem outras entidades além dessas três? Sim: Professor e Disciplina
+⇨ Existem outras entidades além dessas três? Correto, as entidades professor e disciplina foram acrescentas. 
 
-⇨ Quais são os principais campos e tipos? Entidades e atributos, contendo chaves primárias (PK) e estrangeiras (FK). Uma entidade é um conjunto de informações sobre um determinado conceito e toda entidade possuem atributos que possuem informações que a referenciam.
+⇨ Quais são os principais campos e tipos? Como tipo temos varchar pra string(caracter), int para números inteiros e date para o formato de data.
 
-⇨ Como essas entidades estão relacionadas? Através das cardinalidades. Nela são definidos os graus de relação entre duas entidades ou tabelas.
+⇨ Como essas entidades estão relacionadas? Através das cardinalidades. Entidades e atributos, contendo chaves primárias (PK), estrangeiras (FK) Nela são definidos os graus de relação entre as entidades ou tabelas.
+
 
 
 
