@@ -1,6 +1,6 @@
 # Projeto_Individual_M4_Desenvolvimento_Web
 
-⇨ Existem outras entidades além dessas três? Correto, as entidades professor e disciplina foram acrescentas. 
+⇨ Existem outras entidades além dessas três? Correto, as entidades professor e disciplina foram acrescentadas. 
 
 ⇨ Quais são os principais campos e tipos? Como tipo temos varchar pra string(caracter), int para números inteiros e date para o formato de data.
 
